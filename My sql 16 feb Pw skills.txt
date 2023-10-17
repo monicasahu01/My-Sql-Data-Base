@@ -1,0 +1,7 @@
+
+What is a database? Differentiate between SQL and NoSQL databases.
+
+SQL databases are relational, and NoSQL databases are non-relational. 
+SQL databases use structured query language (SQL) and have a predefined schema. 
+NoSQL databases have dynamic schemas for unstructured data. SQL databases are vertically scalable, 
+while NoSQL databases are horizontally scalable.
